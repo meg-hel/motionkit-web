@@ -1,0 +1,15 @@
+
+{
+  "name": "motionkit-web",
+  "version": "0.0.1",
+  "description": "Web-Bluetooth-Steuerung für MotionKit mit Calliope mini V2",
+  "dependencies": {
+    "core": "*",
+    "bluetooth": "*",
+    "MotionKit": "github:tinysuperlab/MotionKitV2"
+  },
+  "files": [
+    "motionkitweb.ts"
+  ],
+  "public": true
+}
