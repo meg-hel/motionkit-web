@@ -6,7 +6,7 @@
  * Joystick-Protokoll: X+25,Y-40\n
  * Motoren über MotionKit-I2C-Steuerung
  */
-//% color="#0D47A1" icon="\uf085" block="MotionKit Web"
+//% color="#81C7F5" icon="\uf085" block="MotionKit Web"
 namespace motionkitweb {
 
     export enum Motor {
